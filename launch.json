@@ -7,7 +7,7 @@
     {
       "type": "node",
       "request": "attach",
-      "name": "Node (Docker)",
+      "name": "Node - Typescript - Application using docker",
       "port": 9229,
       "restart": true,
       "remoteRoot": "/app/src",
