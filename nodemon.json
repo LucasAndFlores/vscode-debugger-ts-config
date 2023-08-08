@@ -1,0 +1,8 @@
+{
+  "ignore": [".git", "node_modules/**/node_modules"],
+  "execMap": {
+    "ts": "node --inspect=0.0.0.0:9229 --require ts-node/register"
+  },
+  "watch": ["src/"],
+  "ext": "ts,json,js"
+}
